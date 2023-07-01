@@ -11,7 +11,7 @@
 
 <br>
 
-📲📩 Sejam bem-vindos! Caso queiram me contactar, basta escolher uma das opções abaixo:
+### 📲📩 Sejam bem-vindos! Caso queiram me contactar, basta escolher uma das opções abaixo:
 <br>
 
 [![LiknkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/welber-nogueira-7705031b2/) [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](welberk87@gmail.com)
