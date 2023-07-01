@@ -8,11 +8,12 @@
  👨🏻‍💻 Estudo programção JS Full Stack na OneBitCode;
 <br>
  ⚽Sou amante de esportes no geral, mas o futebol me encanta mais do que todos.
+
 <br>
-<div>
+
 📲📩 Sejam bem-vindos! Caso queiram me contactar, basta escolher uma das opções abaixo:
 <br>
-</div>
+
 [![LiknkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/welber-nogueira-7705031b2/) [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](welberk87@gmail.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:welberk87@gmail.com) [![WhatssApp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](http://bit.ly/3wk7DVw)
 
