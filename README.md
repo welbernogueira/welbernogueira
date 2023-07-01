@@ -8,7 +8,7 @@ Fala, galera. Sejam bem-vindos! Casp queiram me contactar, basta
 [![LiknkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/welber-nogueira-7705031b2/) [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](welberk87@gmail.com)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:welberk87@gmail.com) [![WhatssApp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](mailto:http://bit.ly/3wk7DVw)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:welberk87@gmail.com) [![WhatssApp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](http://bit.ly/3wk7DVw)
 
 ![Welber Nogueira GitHub stats](https://github-readme-stats.vercel.app/api?username=welbernogueira&show_icons=true&theme=gruvbox)
 
