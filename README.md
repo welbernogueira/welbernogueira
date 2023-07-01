@@ -12,7 +12,7 @@
 <br> 
  👨🏻‍💻 Estudo programção JS Full Stack na OneBitCode;
 <br> 
- ⚽Sou amante de esportes no geral, mas o futebol me encanta mais do que todos.
+ ⚽ Sou amante de esportes no geral, mas o futebol me encanta mais do que todos.
 
 <br>
 
