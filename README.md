@@ -1,6 +1,6 @@
-### Fala, galera! 🤙🏻
+###Fala, galera! 🤙🏻
 
-### Sejam bem-vindos! Caso queiram me contactar, basta escolher uma das opções abaixo:
+###Sejam bem-vindos! Caso queiram me contactar, basta escolher uma das opções abaixo:
 
 <br>
 
