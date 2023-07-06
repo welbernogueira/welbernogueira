@@ -33,4 +33,4 @@ Sejam bem-vindos! Caso queiram me contactar, basta escolher uma das opções aba
 
 ![Welber GitHub stats](https://github-readme-stats.vercel.app/api?username=welbernogueira&show_icons=true&theme=gruvbox)
 
-<img align="left" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welbernogueira&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welbernogueira&layout=compact" />
