@@ -5,7 +5,7 @@ Fala, galera! Eu sou o Welber! <img src="https://i.pinimg.com/originals/d9/2e/10
 
 
 <h3>
-Sejam bem-vindos! Caso queiram me contactar, basta escolher uma das opções abaixo:
+Sejam bem-vindos! Pra me contactar, basta escolher uma das opções abaixo:
 </h3>
 <br>
 
