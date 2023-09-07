@@ -15,7 +15,7 @@ Sejam bem-vindos! Pra me contactar, basta escolher uma das opções abaixo:
 <br>
  📚 Sou graduando em Desenvolvimento em Back-End na Unopar; 
 <br> 
- 👨🏻‍💻 Estudo programção JS Full Stack na OneBitCode;
+ 👨🏻‍💻 Estudo programação JS Full Stack na OneBitCode;
 <br> 
  ⚽ Sou amante de esportes no geral, mas o futebol me encanta mais do que todos.
 
