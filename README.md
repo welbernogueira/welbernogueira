@@ -13,7 +13,7 @@ Sejam bem-vindos! Pra me contactar, basta escolher uma das opções abaixo:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:welberk87@gmail.com) [![WhatssApp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://bit.ly/3NtkzCK) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/welbernogueira)
 
 <br>
- 📚 Sou graduando em Desenvolvimento em Back-End na Unopar; 
+ 📚 Sou graduado em Desenvolvimento em Back-End pela Unopar; 
 <br> 
  👨🏻‍💻 Estudo programação JS Full Stack na OneBitCode;
 <br> 
