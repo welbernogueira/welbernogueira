@@ -164,10 +164,15 @@ Atuo de forma próxima às equipes de Desenvolvimento e Produto, contribuindo pa
 
 <br>
 
-<div>
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=welbernogueira&show_icons=true&theme=tokyonight"/>
+### 🧪 Quality Assurance & Automation
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welbernogueira&layout=compact&langs_count=6&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/QA-Quality%20Assurance-2F80ED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cypress-Automation-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+<img src="https://img.shields.io/badge/API%20Testing-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-MySQL%20%7C%20SQL%20Server-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-Management-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 
 </div>
+
