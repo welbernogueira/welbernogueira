@@ -134,7 +134,7 @@ Atuo como Analista de QA, com foco na garantia da qualidade e na entrega de soft
 
 Minha atuação abrange desde o levantamento e análise de requisitos até o planejamento e execução de testes manuais, testes de API, testes unitários e testes automatizados.
 
-Possuo experiência com automação de testes utilizando Cypress e Inteligência Artificial, além da criação e manutenção de testes unitários com apoio de IA e utilização do JaCoCo para análise e acompanhamento da cobertura de código.
+Possuo experiência com automação de testes utilizando Cypress e Playwright utilizando Inteligência Artificial, além da criação e manutenção de testes unitários com apoio de IA e utilização do JaCoCo para análise e acompanhamento da cobertura de código.
 
 Também realizo análise de falhas, validação de integrações, consultas em banco de dados e documentação de problemas, registrando cards detalhados no Jira com cenários, evidências, comportamento esperado e comportamento encontrado.
 
